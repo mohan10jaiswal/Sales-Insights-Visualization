@@ -79,6 +79,18 @@ python sales_analysis.py
 ## Error Handling
 The script is wrapped in a `try-except` block to handle connection or query failures.
 
+## Visualizations
+
+### 📊 Top 5 Best-Selling Products
+![Top 5 Best-Selling Products](https://raw.githubusercontent.com/mohan10jaiswal/Sales-Insights-Visualization/main/Output/OP1.png)
+
+### 🌍 Total Sales by Region
+![Total Sales by Region](https://raw.githubusercontent.com/mohan10jaiswal/Sales-Insights-Visualization/main/Output/OP2.png)
+
+### 👥 Sales by Customer Segment
+![Sales by Customer Segment](https://raw.githubusercontent.com/mohan10jaiswal/Sales-Insights-Visualization/main/Output/OP3.png)
+
+
 
 ## Author
 **Mohan Kumar**
